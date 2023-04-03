@@ -1,2 +1,6 @@
-package utility;public interface wearable {
+package utility;
+
+public interface wearable {
+
+
 }
